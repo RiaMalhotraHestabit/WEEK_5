@@ -129,7 +129,7 @@ Observation:
 
 ---
 
-### 7.4 Disk Usage
+### 6.4 Disk Usage
 
 Commands:
 
