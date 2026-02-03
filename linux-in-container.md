@@ -181,7 +181,7 @@ Observation:
 
 ---
 
-## 9. Key Learnings
+## 8. Key Learnings
 
 * Containers are isolated Linux environments
 * Containers share the host kernel but not the filesystem
@@ -191,7 +191,7 @@ Observation:
 
 ---
 
-## 10. Conclusion
+## 9. Conclusion
 
 This exercise demonstrates how Docker containers simulate real production servers by running applications inside isolated Linux environments. Understanding Linux commands inside containers is essential for backend development, debugging, and DevOps workflows.
 
