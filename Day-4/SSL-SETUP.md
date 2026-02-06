@@ -1,9 +1,12 @@
-# SSL-SETUP.md
 # DAY 4 — SSL + mkcert + HTTPS
+
+---
 
 ## Objective
 
 Enable HTTPS locally using self-signed certificates, configure NGINX for SSL termination, and verify secure access via browser.
+
+--- 
 
 ## Steps Performed
 
@@ -69,7 +72,7 @@ Started NGINX container using Docker Compose.
 
 **Screenshot:** docker ps showing running container
 
-![docker running](screenshots/docker_running.png)
+![docker running](screenshots/container_running.png)
  
 
 ### 7. Verify HTTPS 
