@@ -120,8 +120,6 @@ Screenshot (backend logs):
 
 ![Backend](./screenshots/backend.png)
 
-This confirms application startup and observability through container logs.
-
 ---
 
 ## Conclusion
